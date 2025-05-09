@@ -1,0 +1,1 @@
+Hello,i'm Daniel Nwodo this document contains the source code that simulates the basic ATM system and it also contains the proof of answers for the assignment which includes my answers,screenshots of my codes and their output.
